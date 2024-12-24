@@ -1,0 +1,7 @@
+.gitignore
+allure-results
+.venv
+*.log
+readme.md
+.git
+.idea
